@@ -1,0 +1,14 @@
+C:\Users\alunolab\source\repos\Roteiro5\Roteiro5\obj\Debug\net10.0\Roteiro5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunolab\source\repos\Roteiro5\Roteiro5\obj\Debug\net10.0\Roteiro5.AssemblyInfoInputs.cache
+C:\Users\alunolab\source\repos\Roteiro5\Roteiro5\obj\Debug\net10.0\Roteiro5.AssemblyInfo.cs
+C:\Users\alunolab\source\repos\Roteiro5\Roteiro5\obj\Debug\net10.0\Roteiro5.csproj.CoreCompileInputs.cache
+C:\Users\alunolab\source\repos\Roteiro5\Roteiro5\bin\Debug\net10.0\Roteiro5.exe
+C:\Users\alunolab\source\repos\Roteiro5\Roteiro5\bin\Debug\net10.0\Roteiro5.deps.json
+C:\Users\alunolab\source\repos\Roteiro5\Roteiro5\bin\Debug\net10.0\Roteiro5.runtimeconfig.json
+C:\Users\alunolab\source\repos\Roteiro5\Roteiro5\bin\Debug\net10.0\Roteiro5.dll
+C:\Users\alunolab\source\repos\Roteiro5\Roteiro5\bin\Debug\net10.0\Roteiro5.pdb
+C:\Users\alunolab\source\repos\Roteiro5\Roteiro5\obj\Debug\net10.0\Roteiro5.dll
+C:\Users\alunolab\source\repos\Roteiro5\Roteiro5\obj\Debug\net10.0\refint\Roteiro5.dll
+C:\Users\alunolab\source\repos\Roteiro5\Roteiro5\obj\Debug\net10.0\Roteiro5.pdb
+C:\Users\alunolab\source\repos\Roteiro5\Roteiro5\obj\Debug\net10.0\Roteiro5.genruntimeconfig.cache
+C:\Users\alunolab\source\repos\Roteiro5\Roteiro5\obj\Debug\net10.0\ref\Roteiro5.dll
